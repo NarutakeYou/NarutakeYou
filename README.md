@@ -1,4 +1,6 @@
-### Hi there 👋
+### 概要
++ 個人用のページです
++ 初心者で、使い方を学ぶために作成しました
 
 <!--
 **NarutakeYou/NarutakeYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
